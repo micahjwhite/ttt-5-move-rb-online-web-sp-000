@@ -9,5 +9,5 @@ end
 user_input = ["1", "2", "3", "4", "5", "6", "7", "8", "9"]
 
 def input_to_index(input)
-  puts " - 1}".to_i
+  input = index.to_1 - 1
 end
